@@ -11,6 +11,7 @@ CTF HireChallenge
 over a network with no physical access.
 
 Objective:
+
 1) Find all hidden flags - flags have the format flag{hint}
   each Flag contains a hint how to proceed. There are 8 main flags and 2 bonus flags.
   
