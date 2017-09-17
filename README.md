@@ -12,16 +12,14 @@ over a network with no physical access.
 
 Objective:
 
-1) Find all hidden flags - flags have the format flag{hint}
-  each Flag contains a hint how to proceed. There are 8 main flags and 2 bonus flags.
+1) Find all flags - flags have the format flag{hint}
+  each Flag contains a hint how to proceed.
   
 2) Finally gain root privileges
 
-3) Consider it over when reading /root/final.txt and follow instructions
+3) Consider it over when reading the final flag and follow instructions
 
 4) Document your steps made, tools used, commands fired and all the information gathered during this challenge.
 
 Have Fun!
 -LBr
-
-creds to @ly0nx for inspiration and most of the work.
